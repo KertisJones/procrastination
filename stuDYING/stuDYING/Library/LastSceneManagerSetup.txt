@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Classroom.unity
+- path: Assets/Exam/Exam.unity
   isLoaded: 1
   isActive: 1
