@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class ExamMultipleChoiceQuestion : MonoBehaviour {
 
     public string[] questionList;
+    public List<GameObject> possibleAnswers;
 
     public Text questionDisplay;
     public GameObject correctAnswerDisplay;
@@ -19,7 +20,8 @@ public class ExamMultipleChoiceQuestion : MonoBehaviour {
 
 
     // Use this for initialization
-    void Start () {
+    void Start()
+    {
         /*for (int i = 0; i < alpha.Count; i++) {
          string temp = alpha[i];
          int randomIndex = Random.Range(i, alpha.Count);
@@ -45,11 +47,13 @@ public class ExamMultipleChoiceQuestion : MonoBehaviour {
         {
             correctAnswerDisplay.GetComponentInChildren<Text>().text = questionList[1];
             correctAnswerDisplay.GetComponentInChildren<Button>().onClick.AddListener(delegate { CorrectClick(correctAnswerDisplay); });
+            possibleAnswers.Add(correctAnswerDisplay);
         }
         if (questionList.Length > 2)
         {
             falseAnswerDisplay.GetComponentInChildren<Text>().text = questionList[2];
             falseAnswerDisplay.GetComponentInChildren<Button>().onClick.AddListener(delegate { IncorrectClick(falseAnswerDisplay); });
+            possibleAnswers.Add(falseAnswerDisplay);
         }
         else
         {
@@ -60,6 +64,7 @@ public class ExamMultipleChoiceQuestion : MonoBehaviour {
         {
             falseAnswerDisplay2.GetComponentInChildren<Text>().text = questionList[3];
             falseAnswerDisplay2.GetComponentInChildren<Button>().onClick.AddListener(delegate { IncorrectClick(falseAnswerDisplay2); });
+            possibleAnswers.Add(falseAnswerDisplay2);
         }
         else
         {
@@ -70,6 +75,7 @@ public class ExamMultipleChoiceQuestion : MonoBehaviour {
         {
             falseAnswerDisplay3.GetComponentInChildren<Text>().text = questionList[4];
             falseAnswerDisplay3.GetComponentInChildren<Button>().onClick.AddListener(delegate { IncorrectClick(falseAnswerDisplay3); });
+            possibleAnswers.Add(falseAnswerDisplay3);
         }
         else
         {
@@ -77,9 +83,26 @@ public class ExamMultipleChoiceQuestion : MonoBehaviour {
             //falseAnswerDisplay3.SetActive(false);
         }
 
+        for (int n = 0; n < 10; n++)
+        {
+            for (int i = 0; i < possibleAnswers.Count; i++)
+            {
+                GameObject temp = possibleAnswers[i];
+                int randomIndex = Random.Range(i, possibleAnswers.Count);
+                possibleAnswers[i] = possibleAnswers[randomIndex];
+                possibleAnswers[randomIndex] = temp;
+
+            }
+        }
+        float questionY = this.transform.position.y - 70;
+        for (int i = 0; i < possibleAnswers.Count; i++)
+        {
+            possibleAnswers[i].transform.position = new Vector3(possibleAnswers[i].transform.position.x, questionY, possibleAnswers[i].transform.position.z);
+
+            questionY -= 55;
+        }
 
     }
-
 
     void CorrectClick(GameObject buttonClicked)
     {

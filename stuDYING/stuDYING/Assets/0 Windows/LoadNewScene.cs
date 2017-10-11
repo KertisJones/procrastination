@@ -12,5 +12,7 @@ public class LoadNewScene : MonoBehaviour {
         //float fadeTime = GameObject.Find("_GM").GetComponent<Fading>().BeginFade(1);
         yield return new WaitForSeconds(.75f);
         SceneManager.LoadScene(sceneToLoad);
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
     }
 }
