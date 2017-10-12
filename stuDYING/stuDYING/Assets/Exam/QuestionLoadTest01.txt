@@ -1,0 +1,5 @@
+Question 1? / Yes / No / No / No
+Question 2? / Yes / No / No / No
+Question 3? / Yes / No / No / No
+ABC or D? / A / B / C / D
+True or False? / True / False
