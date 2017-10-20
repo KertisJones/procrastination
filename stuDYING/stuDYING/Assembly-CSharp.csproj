@@ -223,6 +223,7 @@
      <Compile Include="Assets\OpenSceneOnButton.cs" />
      <Compile Include="Assets\PauseMenuMove.cs" />
      <Compile Include="Assets\PersistentTimer.cs" />
+     <Compile Include="Assets\SetAudioTime.cs" />
      <Compile Include="Assets\SetMenuRelativeToCam.cs" />
      <Compile Include="Assets\skellyChecker.cs" />
      <Compile Include="Assets\TransparentOnOtherScenes.cs" />
