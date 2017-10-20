@@ -14,6 +14,8 @@ public class PersistentTimer : MonoBehaviour {
     //public int totalDays = 0;
     public bool isStudyTime = true;
 
+    public GameObject disableOnCompleteObj;
+
     public string sceneToLoad;
 
     public int minLeft = 0;
@@ -50,8 +52,8 @@ public class PersistentTimer : MonoBehaviour {
             {
                 SceneManager.LoadScene(sceneToLoad);
                 //totalDays += 1;
-                timeLeft = studyLength;
-                //isStudyTime = false;
+                timeLeft = 0;
+                isStudyTime = false;
 
                 //StartCoroutine(nextScene());
             }
@@ -71,6 +73,10 @@ public class PersistentTimer : MonoBehaviour {
 
             this.GetComponentInChildren<UnityEngine.UI.Text>().text = timerStr;
 
+        }
+        else
+        {
+            disableOnCompleteObj.SetActive(false);
         }
     }
 

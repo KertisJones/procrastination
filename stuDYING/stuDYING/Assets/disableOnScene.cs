@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class disableOnExam : MonoBehaviour {
+public class disableOnScene : MonoBehaviour {
 
     public string sceneThatDisables = "Exam";
 

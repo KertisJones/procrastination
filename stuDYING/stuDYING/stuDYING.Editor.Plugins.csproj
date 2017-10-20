@@ -153,6 +153,7 @@
   <ItemGroup>
     <None Include="Assets\3D Models\freebie man.zip\Freebie Man\README!!.txt" />
     <None Include="Assets\Exam\QuestionLoadTest01.txt" />
+    <None Include="Assets\Exam\QuestionLoadTest02.txt" />
     <None Include="Assets\MaterialUI\Fonts\NOTICE.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
