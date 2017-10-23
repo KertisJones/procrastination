@@ -78,6 +78,11 @@ public class PersistentTimer : MonoBehaviour {
         {
             disableOnCompleteObj.SetActive(false);
         }
+
+        if (Input.GetKeyDown("f1") || Input.GetKeyDown("f2"))
+        {
+            disableOnCompleteObj.SetActive(false);
+        }
     }
 
 

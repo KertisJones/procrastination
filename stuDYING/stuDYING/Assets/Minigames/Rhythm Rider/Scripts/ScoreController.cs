@@ -24,6 +24,6 @@ public class ScoreController : MonoBehaviour {
 	IEnumerator FinalScoreOperator(){
 		myText.text = "" + GameMasterRhythmRider.totalScore;
 		yield return new WaitForSeconds (5f);
-		Time.timeScale = 0f;
+		//Time.timeScale = 0f;
 	}
 }

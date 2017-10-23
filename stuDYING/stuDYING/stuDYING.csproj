@@ -109,6 +109,16 @@
     <Compile Include="Assets\FlexibleUISystems\FlexibleDraggableObject\Scripts\FlexibleDraggableObject.cs" />
     <Compile Include="Assets\FlexibleUISystems\FlexibleDraggableObject\Scripts\FlexibleResizeHandler.cs" />
     <Compile Include="Assets\FlexibleUISystems\Generic\FlexibleExtensions.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\Hazard.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\Hide.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\Homing.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\LaserTimer.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\LightTimer.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\Patrol.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\RotarySpotlight.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\SpotlightDetector.cs" />
+    <Compile Include="Assets\Jailbreak\Scripts\Teleporter.cs" />
     <Compile Include="Assets\LaserDinosaurDefense\Scenes\BuyGU.cs" />
     <Compile Include="Assets\LaserDinosaurDefense\Scenes\EnemySpawnManager.cs" />
     <Compile Include="Assets\LaserDinosaurDefense\Scenes\EnemyUnitController.cs" />
@@ -265,6 +275,9 @@
     <Compile Include="Assets\SetAudioTime.cs" />
     <Compile Include="Assets\SetMenuRelativeToCam.cs" />
     <Compile Include="Assets\skellyChecker.cs" />
+    <Compile Include="Assets\TAG\GoToNextLevel.cs" />
+    <Compile Include="Assets\TAG\TagGameManager.cs" />
+    <Compile Include="Assets\TAG\Tap.cs" />
     <Compile Include="Assets\TransparentOnOtherScenes.cs" />
     <Compile Include="Assets\TriggerMoveMouseOver.cs" />
     <Compile Include="Assets\TurnOffRenderer.cs" />

@@ -28,6 +28,7 @@ public class OpenSceneOnButton : MonoBehaviour {
                 SceneManager.LoadScene(sceneNames[i]);
                 Cursor.visible = true;
                 Cursor.lockState = CursorLockMode.None;
+                Time.timeScale = 1f;
             }
             i += 1;
         }
