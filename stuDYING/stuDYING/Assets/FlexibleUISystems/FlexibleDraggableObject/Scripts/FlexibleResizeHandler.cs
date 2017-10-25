@@ -24,7 +24,9 @@ public class FlexibleResizeHandler : MonoBehaviour
     public Vector2 MaximumDimmensions = new Vector2(800, 800);
     
     private EventTrigger _eventTrigger;
-    
+
+    public bool disable = false;
+
 	void Start ()
 	{
 	    _eventTrigger = GetComponent<EventTrigger>();
@@ -72,7 +74,7 @@ public class FlexibleResizeHandler : MonoBehaviour
             default:
                 throw new ArgumentOutOfRangeException();
         }
-        if (horizontalEdge != null)
+        if (horizontalEdge != null && !disable)
         {
             if (horizontalEdge == RectTransform.Edge.Right)
             { }
@@ -84,7 +86,7 @@ public class FlexibleResizeHandler : MonoBehaviour
                     Target.position.x - Target.pivot.x * Target.rect.width, 
                     Mathf.Clamp(Target.rect.width + ped.delta.x, MinimumDimmensions.x, MaximumDimmensions.x));
         }
-        if (verticalEdge != null)
+        if (verticalEdge != null && !disable)
         {
             if (verticalEdge == RectTransform.Edge.Top)
                 Target.SetInsetAndSizeFromParentEdge((RectTransform.Edge)verticalEdge, 

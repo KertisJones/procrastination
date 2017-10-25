@@ -152,26 +152,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\AboutWindow.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\BuildManagerEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\CameraControlEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\EditorDBManager.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\EditorUtilities.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\GameControlEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\MenuExtension.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\PathTDEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\PlatformTDEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\ResourceDBEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\ResourceManagerEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\ShootObjectEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\SpawnEditorWindow.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\SpawnManagerEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitCreepAnimationEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitCreepEditorWindow.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitEditorWindow.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitTowerEditor.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitTowerEditorWindow.cs" />
-    <Compile Include="Assets\LaserDinosaurDefense\TDTK_Free\Scripts\UI\Editor\UIEditor.cs" />
     <Compile Include="Assets\MaterialUI\Editor\CheckboxConfigEditor.cs" />
     <Compile Include="Assets\MaterialUI\Editor\EZAnimEditor.cs" />
     <Compile Include="Assets\MaterialUI\Editor\MaterialUIEditorTools.cs" />
@@ -181,18 +161,38 @@
     <Compile Include="Assets\MaterialUI\Editor\ShadowGenEditor.cs" />
     <Compile Include="Assets\MaterialUI\Editor\SnapButtonToTextEditor.cs" />
     <Compile Include="Assets\MaterialUI\Editor\TexturePostProcessor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\AboutWindow.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\BuildManagerEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\CameraControlEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\EditorDBManager.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\EditorUtilities.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\GameControlEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\MenuExtension.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\PathTDEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\PlatformTDEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\ResourceDBEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\ResourceManagerEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\ShootObjectEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\SpawnEditorWindow.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\SpawnManagerEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitCreepAnimationEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitCreepEditorWindow.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitEditorWindow.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitTowerEditor.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\Editor\UnitTowerEditorWindow.cs" />
+    <Compile Include="Assets\Minigames\LaserDinosaurDefense\TDTK_Free\Scripts\UI\Editor\UIEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3D Models\freebie man.zip\Freebie Man\README!!.txt" />
     <None Include="Assets\Exam\QuestionLoadTest01.txt" />
     <None Include="Assets\Exam\QuestionLoadTest02.txt" />
-    <None Include="Assets\LaserDinosaurDefense\Scenes\ProjectorAdditiveTint.shader" />
-    <None Include="Assets\LaserDinosaurDefense\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
-    <None Include="Assets\LaserDinosaurDefense\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
-    <None Include="Assets\LaserDinosaurDefense\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
-    <None Include="Assets\LaserDinosaurDefense\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
-    <None Include="Assets\LaserDinosaurDefense\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
     <None Include="Assets\MaterialUI\Fonts\NOTICE.txt" />
+    <None Include="Assets\Minigames\LaserDinosaurDefense\Scenes\ProjectorAdditiveTint.shader" />
+    <None Include="Assets\Minigames\LaserDinosaurDefense\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+    <None Include="Assets\Minigames\LaserDinosaurDefense\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+    <None Include="Assets\Minigames\LaserDinosaurDefense\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+    <None Include="Assets\Minigames\LaserDinosaurDefense\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+    <None Include="Assets\Minigames\LaserDinosaurDefense\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
     <None Include="Assets\SkeletonData\animations.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
