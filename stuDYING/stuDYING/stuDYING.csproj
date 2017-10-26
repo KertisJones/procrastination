@@ -101,6 +101,7 @@
     <Compile Include="Assets\FlexibleUISystems\FlexibleDraggableObject\Scripts\FlexibleResizeHandler.cs" />
     <Compile Include="Assets\FlexibleUISystems\Generic\FlexibleExtensions.cs" />
     <Compile Include="Assets\InstGameObjFromListOfImg.cs" />
+    <Compile Include="Assets\MadLibsHG.cs" />
     <Compile Include="Assets\MaterialUI\Examples\Scripts\04 - RadioButton\Example04.cs" />
     <Compile Include="Assets\MaterialUI\Examples\Scripts\05 - Sliders\Example05.cs" />
     <Compile Include="Assets\MaterialUI\Scripts\Anim.cs" />
