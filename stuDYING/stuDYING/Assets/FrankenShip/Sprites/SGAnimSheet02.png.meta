@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: e7ad05105ded2004295a1d3e7098a873
+timeCreated: 1460310759
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SGAnimSheet02_0
+    21300002: SGAnimSheet02_1
+    21300004: SGAnimSheet02_2
+    21300006: SGAnimSheet02_3
+    21300008: SGAnimSheet02_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SGAnimSheet02_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 877
+        width: 52
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 114}
+        - {x: 26, y: 140}
+        - {x: 26, y: 210}
+        - {x: 18, y: 217}
+        - {x: -19, y: 217}
+        - {x: -26, y: 138}
+        - {x: -26, y: 5}
+        - {x: -22, y: 0}
+        - {x: 12, y: 0}
+        - {x: 26, y: 7}
+        - {x: 26, y: 118}
+        - {x: 18, y: 116}
+      - - {x: -22, y: 120}
+        - {x: -23, y: 118}
+        - {x: -23, y: 115}
+        - {x: -21, y: 114}
+        - {x: -18, y: 114}
+        - {x: -17, y: 116}
+        - {x: -17, y: 119}
+        - {x: -19, y: 120}
+      - - {x: -26, y: 185}
+        - {x: -26, y: 150}
+        - {x: -24, y: 150}
+        - {x: -21, y: 151}
+        - {x: -21, y: 186}
+        - {x: -24, y: 186}
+    - name: SGAnimSheet02_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 658
+        width: 52
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 114}
+        - {x: 25, y: 138}
+        - {x: 26, y: 162}
+        - {x: 26, y: 185}
+        - {x: 10, y: 215}
+        - {x: 9, y: 217}
+        - {x: -21, y: 217}
+        - {x: -26, y: 152}
+        - {x: -26, y: 5}
+        - {x: -22, y: 0}
+        - {x: 12, y: 0}
+        - {x: 26, y: 7}
+        - {x: 26, y: 118}
+        - {x: 18, y: 116}
+      - - {x: -22, y: 120}
+        - {x: -23, y: 118}
+        - {x: -23, y: 115}
+        - {x: -21, y: 114}
+        - {x: -18, y: 114}
+        - {x: -17, y: 116}
+        - {x: -17, y: 119}
+        - {x: -19, y: 120}
+      - - {x: -26, y: 185}
+        - {x: -26, y: 150}
+        - {x: -24, y: 150}
+        - {x: -21, y: 151}
+        - {x: -21, y: 186}
+        - {x: -24, y: 186}
+    - name: SGAnimSheet02_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 439
+        width: 52
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 114}
+        - {x: 25, y: 138}
+        - {x: 26, y: 162}
+        - {x: 26, y: 185}
+        - {x: 10, y: 217}
+        - {x: -22, y: 217}
+        - {x: -26, y: 195}
+        - {x: -26, y: 14}
+        - {x: -18, y: 0}
+        - {x: 12, y: 0}
+        - {x: 26, y: 7}
+        - {x: 26, y: 118}
+        - {x: 18, y: 116}
+      - - {x: -22, y: 120}
+        - {x: -23, y: 118}
+        - {x: -23, y: 115}
+        - {x: -21, y: 114}
+        - {x: -18, y: 114}
+        - {x: -17, y: 116}
+        - {x: -17, y: 119}
+        - {x: -19, y: 120}
+      - - {x: -26, y: 185}
+        - {x: -26, y: 150}
+        - {x: -24, y: 150}
+        - {x: -21, y: 151}
+        - {x: -21, y: 186}
+        - {x: -24, y: 186}
+    - name: SGAnimSheet02_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 52
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 114}
+        - {x: 25, y: 138}
+        - {x: 26, y: 158}
+        - {x: 26, y: 187}
+        - {x: 14, y: 217}
+        - {x: -17, y: 217}
+        - {x: -26, y: 167}
+        - {x: -26, y: 10}
+        - {x: -19, y: 0}
+        - {x: 12, y: 0}
+        - {x: 26, y: 7}
+        - {x: 26, y: 118}
+        - {x: 18, y: 116}
+      - - {x: -22, y: 120}
+        - {x: -23, y: 118}
+        - {x: -23, y: 115}
+        - {x: -21, y: 114}
+        - {x: -18, y: 114}
+        - {x: -17, y: 116}
+        - {x: -17, y: 119}
+        - {x: -19, y: 120}
+      - - {x: -26, y: 185}
+        - {x: -26, y: 150}
+        - {x: -24, y: 150}
+        - {x: -21, y: 151}
+        - {x: -21, y: 186}
+        - {x: -24, y: 186}
+    - name: SGAnimSheet02_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 52
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 114}
+        - {x: 25, y: 138}
+        - {x: 26, y: 161}
+        - {x: 26, y: 185}
+        - {x: 14, y: 216}
+        - {x: 11, y: 217}
+        - {x: -26, y: 217}
+        - {x: -26, y: 4}
+        - {x: -22, y: 0}
+        - {x: 12, y: 0}
+        - {x: 26, y: 7}
+        - {x: 26, y: 118}
+        - {x: 18, y: 116}
+      - - {x: -22, y: 120}
+        - {x: -23, y: 118}
+        - {x: -23, y: 115}
+        - {x: -21, y: 114}
+        - {x: -18, y: 114}
+        - {x: -17, y: 116}
+        - {x: -17, y: 119}
+        - {x: -19, y: 120}
+      - - {x: -26, y: 185}
+        - {x: -26, y: 150}
+        - {x: -24, y: 150}
+        - {x: -21, y: 151}
+        - {x: -21, y: 186}
+        - {x: -24, y: 186}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

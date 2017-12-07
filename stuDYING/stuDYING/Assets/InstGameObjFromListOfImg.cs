@@ -16,6 +16,8 @@ public class InstGameObjFromListOfImg : MonoBehaviour
     private float objYValue = 0;
     public float distanceBetweenQuestions = 200;
 
+    public float cameraScrollMinModifier = 0;
+
     // Use this for initialization
     void Start()
     {
@@ -29,7 +31,7 @@ public class InstGameObjFromListOfImg : MonoBehaviour
             objYValue -= distanceBetweenQuestions;
         }
 
-        displayCamera.GetComponent<moveWithScrollWheel>().yMin = objYValue + distanceBetweenQuestions;
+        displayCamera.GetComponent<moveWithScrollWheel>().yMin = this.transform.position.y + cameraScrollMinModifier + objYValue + distanceBetweenQuestions;
 
     }
     

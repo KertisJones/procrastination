@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 6214fb2948ab3cd40b9454f30146318a
+timeCreated: 1456258571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IgorP2ChargeSheet_0
+    21300002: IgorP2ChargeSheet_1
+    21300004: IgorP2ChargeSheet_2
+    21300006: IgorP2ChargeSheet_3
+    21300008: IgorP2ChargeSheet_4
+    21300010: IgorP2ChargeSheet_5
+    21300012: IgorP2ChargeSheet_6
+    21300014: IgorP2ChargeSheet_7
+    21300016: IgorP2ChargeSheet_8
+    21300018: IgorP2ChargeSheet_9
+    21300020: IgorP2ChargeSheet_10
+    21300022: IgorP2ChargeSheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 45
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IgorP2ChargeSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 124
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 144.5}
+        - {x: -5, y: 138.5}
+        - {x: -62, y: 44.5}
+        - {x: -62, y: -136.5}
+        - {x: -61, y: -144.5}
+        - {x: 56, y: -144.5}
+        - {x: 62, y: -134.5}
+        - {x: 62, y: 138.5}
+        - {x: 53, y: 144.5}
+      - - {x: 28, y: 132.5}
+        - {x: 28, y: 130.5}
+        - {x: 31, y: 127.5}
+        - {x: 34, y: 128.5}
+        - {x: 34, y: 132.5}
+        - {x: 32, y: 134.5}
+        - {x: 30, y: 134.5}
+    - name: IgorP2ChargeSheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 867
+        width: 124
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 139}
+        - {x: -15, y: 139}
+        - {x: -62, y: 56}
+        - {x: -62, y: -139}
+        - {x: 56, y: -139}
+        - {x: 62, y: -129}
+      - - {x: 32, y: 127}
+        - {x: 30, y: 126}
+        - {x: 30, y: 121}
+        - {x: 32, y: 120}
+        - {x: 34, y: 120}
+        - {x: 36, y: 123}
+        - {x: 36, y: 124}
+        - {x: 34, y: 127}
+    - name: IgorP2ChargeSheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 867
+        width: 124
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 143}
+        - {x: -62, y: 76}
+        - {x: -62, y: -129}
+        - {x: -53, y: -143}
+        - {x: 56, y: -143}
+        - {x: 62, y: -133}
+        - {x: 62, y: 125}
+        - {x: 37, y: 143}
+      - - {x: 20, y: 138}
+        - {x: 20, y: 134}
+        - {x: 22, y: 132}
+        - {x: 24, y: 132}
+        - {x: 26, y: 134}
+        - {x: 26, y: 136}
+        - {x: 23, y: 139}
+    - name: IgorP2ChargeSheet_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 578
+        width: 124
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 95.5}
+        - {x: 62, y: 138.5}
+        - {x: 55, y: 141.5}
+        - {x: 17, y: 141.5}
+        - {x: -62, y: 34.5}
+        - {x: -62, y: -135.5}
+        - {x: -61, y: -141.5}
+        - {x: 55, y: -141.5}
+        - {x: 62, y: -130.5}
+        - {x: 62, y: 13.5}
+        - {x: 17, y: 57.5}
+    - name: IgorP2ChargeSheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 578
+        width: 124
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 81.5}
+        - {x: 62, y: 140.5}
+        - {x: 6, y: 140.5}
+        - {x: -62, y: 31.5}
+        - {x: -62, y: -129.5}
+        - {x: -53, y: -140.5}
+        - {x: 56, y: -140.5}
+        - {x: 62, y: -132.5}
+        - {x: 62, y: 31.5}
+        - {x: 61, y: 77.5}
+    - name: IgorP2ChargeSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 124
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 139}
+        - {x: -62, y: 12}
+        - {x: -62, y: -125}
+        - {x: -53, y: -139}
+        - {x: 62, y: -139}
+        - {x: 62, y: 135}
+        - {x: 50, y: 139}
+    - name: IgorP2ChargeSheet_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
+        width: 124
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 138}
+        - {x: 4, y: 138}
+        - {x: -62, y: 35}
+        - {x: -62, y: -125}
+        - {x: -53, y: -138}
+        - {x: 56, y: -138}
+        - {x: 62, y: -128}
+        - {x: 62, y: 129}
+        - {x: 60, y: 132}
+    - name: IgorP2ChargeSheet_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 124
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 136.5}
+        - {x: -38, y: 70.5}
+        - {x: -62, y: 16.5}
+        - {x: -62, y: -122.5}
+        - {x: -53, y: -136.5}
+        - {x: 56, y: -136.5}
+        - {x: 62, y: -126.5}
+        - {x: 62, y: 130.5}
+        - {x: 52, y: 136.5}
+    - name: IgorP2ChargeSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 135.5}
+        - {x: -36, y: 69.5}
+        - {x: -62, y: 24.5}
+        - {x: -62, y: -125.5}
+        - {x: -53, y: -135.5}
+        - {x: 62, y: -135.5}
+        - {x: 62, y: 129.5}
+        - {x: 49, y: 135.5}
+    - name: IgorP2ChargeSheet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 124
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 134.5}
+        - {x: -62, y: 45.5}
+        - {x: -62, y: -120.5}
+        - {x: -53, y: -134.5}
+        - {x: 56, y: -134.5}
+        - {x: 62, y: -124.5}
+        - {x: 62, y: 132.5}
+        - {x: 61, y: 134.5}
+    - name: IgorP2ChargeSheet_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 124
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 133}
+        - {x: -8, y: 131}
+        - {x: -62, y: 48}
+        - {x: -62, y: -123}
+        - {x: -53, y: -133}
+        - {x: 56, y: -133}
+        - {x: 62, y: -123}
+        - {x: 62, y: 115}
+        - {x: 46, y: 133}
+    - name: IgorP2ChargeSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 124
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 126}
+        - {x: -31, y: 57}
+        - {x: -57, y: 50}
+        - {x: -62, y: 15}
+        - {x: -62, y: -137}
+        - {x: -55, y: -139}
+        - {x: 62, y: -139}
+        - {x: 62, y: 118}
+        - {x: 39, y: 126}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

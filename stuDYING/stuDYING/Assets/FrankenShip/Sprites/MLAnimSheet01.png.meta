@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 104b7ff0f8ef8b648a94c00c2d5ac2dd
+timeCreated: 1461339814
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MLAnimSheet01_0
+    21300002: MLAnimSheet01_1
+    21300004: MLAnimSheet01_2
+    21300006: MLAnimSheet01_3
+    21300008: MLAnimSheet01_4
+    21300010: MLAnimSheet01_5
+    21300012: MLAnimSheet01_6
+    21300014: MLAnimSheet01_7
+    21300016: MLAnimSheet01_8
+    21300018: MLAnimSheet01_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MLAnimSheet01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 100
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 96}
+        - {x: 33, y: 97}
+        - {x: -47, y: 97}
+        - {x: -50, y: 96}
+        - {x: -50, y: -88}
+        - {x: -48, y: -96}
+        - {x: -47, y: -97}
+        - {x: 39, y: -97}
+        - {x: 50, y: -59}
+        - {x: 50, y: 48}
+      - - {x: -47, y: 51}
+        - {x: -44, y: 48}
+        - {x: -41, y: 49}
+        - {x: -41, y: 53}
+        - {x: -42, y: 55}
+        - {x: -45, y: 55}
+        - {x: -47, y: 54}
+    - name: MLAnimSheet01_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 194
+        width: 98
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 90}
+        - {x: -49, y: 85}
+        - {x: -49, y: -90}
+        - {x: 41, y: -90}
+        - {x: 49, y: -55}
+        - {x: 49, y: 87}
+        - {x: 42, y: 90}
+    - name: MLAnimSheet01_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 194
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 91}
+        - {x: -26, y: 91}
+        - {x: -30, y: 90}
+        - {x: -47, y: 86}
+        - {x: -49, y: 69}
+        - {x: -49, y: -91}
+        - {x: 44, y: -91}
+        - {x: 49, y: -75}
+        - {x: 49, y: 60}
+        - {x: 47, y: 85}
+    - name: MLAnimSheet01_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 194
+        width: 98
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 91.5}
+        - {x: -49, y: 90.5}
+        - {x: -49, y: -91.5}
+        - {x: 42, y: -91.5}
+        - {x: 49, y: -69.5}
+        - {x: 49, y: 77.5}
+        - {x: 38, y: 91.5}
+    - name: MLAnimSheet01_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 194
+        width: 96
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 92.5}
+        - {x: -48, y: 92.5}
+        - {x: -48, y: -91.5}
+        - {x: -47, y: -92.5}
+        - {x: 39, y: -92.5}
+        - {x: 48, y: -75.5}
+        - {x: 48, y: 88.5}
+    - name: MLAnimSheet01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 90}
+        - {x: 41, y: 93}
+        - {x: -50, y: 93}
+        - {x: -50, y: -86}
+        - {x: -48, y: -92}
+        - {x: -47, y: -93}
+        - {x: 40, y: -93}
+        - {x: 50, y: -66}
+    - name: MLAnimSheet01_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 98
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 94}
+        - {x: -36, y: 94}
+        - {x: -47, y: 90}
+        - {x: -49, y: 79}
+        - {x: -49, y: -94}
+        - {x: 38, y: -94}
+        - {x: 49, y: -56}
+        - {x: 49, y: 92}
+    - name: MLAnimSheet01_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 98
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 94.5}
+        - {x: -48, y: 91.5}
+        - {x: -49, y: 56.5}
+        - {x: -49, y: -94.5}
+        - {x: 38, y: -94.5}
+        - {x: 49, y: -56.5}
+        - {x: 49, y: 94.5}
+    - name: MLAnimSheet01_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 98
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 90.5}
+        - {x: 32, y: 95.5}
+        - {x: -31, y: 95.5}
+        - {x: -47, y: 91.5}
+        - {x: -49, y: 55.5}
+        - {x: -49, y: -95.5}
+        - {x: 39, y: -95.5}
+        - {x: 49, y: -63.5}
+        - {x: 49, y: 56.5}
+    - name: MLAnimSheet01_9
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 96
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 96}
+        - {x: -46, y: 92}
+        - {x: -48, y: 57}
+        - {x: -48, y: 51}
+        - {x: -44, y: 49}
+        - {x: -41, y: 50}
+        - {x: -48, y: -4}
+        - {x: -48, y: -96}
+        - {x: 45, y: -96}
+        - {x: 48, y: -88}
+        - {x: 48, y: 96}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

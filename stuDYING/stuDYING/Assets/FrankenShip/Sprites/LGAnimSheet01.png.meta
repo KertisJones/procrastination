@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: cba61cfe8b4d54245b43e23986cec262
+timeCreated: 1461339384
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LGAnimSheet01_0
+    21300002: LGAnimSheet01_1
+    21300004: LGAnimSheet01_2
+    21300006: LGAnimSheet01_3
+    21300008: LGAnimSheet01_4
+    21300010: LGAnimSheet01_5
+    21300012: LGAnimSheet01_6
+    21300014: LGAnimSheet01_7
+    21300016: LGAnimSheet01_8
+    21300018: LGAnimSheet01_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LGAnimSheet01_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 663
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -11.575012}
+        - {x: -53, y: -16.575012}
+        - {x: 55, y: -16.575012}
+        - {x: 55, y: 154.42499}
+        - {x: 43, y: 204.42499}
+        - {x: -30, y: 204.42499}
+        - {x: -55, y: 115.42499}
+    - name: LGAnimSheet01_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 663
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 188.42499}
+        - {x: -55, y: 133.42499}
+        - {x: -55, y: -8.575012}
+        - {x: -47, y: -16.575012}
+        - {x: 46, y: -16.575012}
+        - {x: 55, y: -9.575012}
+        - {x: 55, y: 102.42499}
+        - {x: 45, y: 188.42499}
+    - name: LGAnimSheet01_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 663
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 171.42499}
+        - {x: -28, y: 171.42499}
+        - {x: -55, y: 125.42499}
+        - {x: -55, y: -16.575012}
+        - {x: 45, y: -16.575012}
+        - {x: 55, y: -7.575012}
+        - {x: 55, y: 102.42499}
+        - {x: 54, y: 107.42499}
+    - name: LGAnimSheet01_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 442
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 175.42499}
+        - {x: -55, y: 151.42499}
+        - {x: -55, y: -16.575012}
+        - {x: 55, y: -16.575012}
+        - {x: 55, y: 136.42499}
+        - {x: 30, y: 175.42499}
+    - name: LGAnimSheet01_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 442
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 180.42499}
+        - {x: -32, y: 180.42499}
+        - {x: -55, y: 144.42499}
+        - {x: -55, y: -16.575012}
+        - {x: 45, y: -16.575012}
+        - {x: 55, y: -7.575012}
+        - {x: 55, y: 101.42499}
+        - {x: 54, y: 107.42499}
+    - name: LGAnimSheet01_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 442
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 184.31451}
+        - {x: -37, y: 184.31451}
+        - {x: -55, y: 153.31451}
+        - {x: -55, y: -16.685486}
+        - {x: 53, y: -16.685486}
+        - {x: 55, y: -15.685486}
+        - {x: 55, y: 102.314514}
+        - {x: 31, y: 182.31451}
+    - name: LGAnimSheet01_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 189.425}
+        - {x: -55, y: 101.425}
+        - {x: -55, y: -9.574997}
+        - {x: -47, y: -16.574997}
+        - {x: 45, y: -16.574997}
+        - {x: 55, y: -6.574997}
+        - {x: 55, y: 143.425}
+        - {x: 29, y: 189.425}
+    - name: LGAnimSheet01_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 221
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -13.574997}
+        - {x: -54, y: -16.574997}
+        - {x: 55, y: -16.574997}
+        - {x: 55, y: 136.425}
+        - {x: 40, y: 193.425}
+        - {x: -28, y: 193.425}
+        - {x: -55, y: 112.425}
+    - name: LGAnimSheet01_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 221
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 197.425}
+        - {x: -55, y: 121.425}
+        - {x: -55, y: -16.574997}
+        - {x: 55, y: -16.574997}
+        - {x: 55, y: 160.425}
+        - {x: 48, y: 197.425}
+    - name: LGAnimSheet01_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 202.425}
+        - {x: -55, y: 162.425}
+        - {x: -55, y: -11.574997}
+        - {x: -42, y: -16.574997}
+        - {x: 55, y: -16.574997}
+        - {x: 55, y: 129.425}
+        - {x: 29, y: 202.425}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

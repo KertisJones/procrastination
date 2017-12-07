@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: bc33fc87391ad4a4e98c10ee5621058c
+timeCreated: 1461695319
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MenuLogoJustScreenFlicker_0
+    21300002: MenuLogoJustScreenFlicker_1
+    21300004: MenuLogoJustScreenFlicker_2
+    21300006: MenuLogoJustScreenFlicker_3
+    21300008: MenuLogoJustScreenFlicker_4
+    21300010: MenuLogoJustScreenFlicker_5
+    21300012: MenuLogoJustScreenFlicker_6
+    21300014: MenuLogoJustScreenFlicker_7
+    21300016: MenuLogoJustScreenFlicker_8
+    21300018: MenuLogoJustScreenFlicker_9
+    21300020: MenuLogoJustScreenFlicker_10
+    21300022: MenuLogoJustScreenFlicker_11
+    21300024: MenuLogoJustScreenFlicker_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MenuLogoJustScreenFlicker_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10215
+        width: 1676
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.4626, y: 50.8396}
+        - {x: 55.4626, y: 63.8396}
+        - {x: -39.5374, y: 63.8396}
+        - {x: -145.5374, y: 51.8396}
+        - {x: -157.5374, y: 32.8396}
+        - {x: -157.5374, y: -35.1604}
+        - {x: -155.5374, y: -44.1604}
+        - {x: -85.5374, y: -62.1604}
+        - {x: 34.4626, y: -55.1604}
+        - {x: 65.4626, y: -63.1604}
+        - {x: 100.4626, y: -63.1604}
+        - {x: 158.4626, y: -31.1604}
+        - {x: 158.4626, y: 18.8396}
+        - {x: 145.4626, y: 42.8396}
+    - name: MenuLogoJustScreenFlicker_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9452
+        width: 1676
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -121.5374, y: 50.90161}
+        - {x: -142.5374, y: 36.90161}
+        - {x: -157.5374, y: 23.901611}
+        - {x: -157.5374, y: -16.098389}
+        - {x: -146.5374, y: -51.09839}
+        - {x: -81.5374, y: -62.09839}
+        - {x: 138.4626, y: -62.09839}
+        - {x: 158.4626, y: -51.09839}
+        - {x: 158.4626, y: 31.901611}
+        - {x: 142.4626, y: 52.90161}
+        - {x: 58.4626, y: 64.90161}
+        - {x: -41.5374, y: 64.90161}
+        - {x: -118.5374, y: 51.90161}
+    - name: MenuLogoJustScreenFlicker_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 8687
+        width: 1676
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.4626, y: 63.587646}
+        - {x: -88.5374, y: 63.587646}
+        - {x: -123.5374, y: 57.587646}
+        - {x: -157.5374, y: 28.587646}
+        - {x: -157.5374, y: -15.4123535}
+        - {x: -143.5374, y: -36.412354}
+        - {x: -130.5374, y: -46.412354}
+        - {x: -103.5374, y: -63.412354}
+        - {x: 134.4626, y: -63.412354}
+        - {x: 158.4626, y: -38.412354}
+        - {x: 158.4626, y: 40.587646}
+        - {x: 142.4626, y: 47.587646}
+    - name: MenuLogoJustScreenFlicker_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7903
+        width: 1676
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.4626, y: 64.70178}
+        - {x: -33.5374, y: 64.70178}
+        - {x: -119.5374, y: 51.701782}
+        - {x: -141.5374, y: 42.701782}
+        - {x: -157.5374, y: 23.701782}
+        - {x: -157.5374, y: -40.298218}
+        - {x: -135.5374, y: -63.298218}
+        - {x: -59.5374, y: -63.298218}
+        - {x: -14.537399, y: -59.298218}
+        - {x: 23.4626, y: -63.298218}
+        - {x: 100.4626, y: -63.298218}
+        - {x: 158.4626, y: -31.298218}
+        - {x: 158.4626, y: 22.701782}
+        - {x: 147.4626, y: 45.701782}
+    - name: MenuLogoJustScreenFlicker_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7097
+        width: 1676
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.4626, y: 63.680176}
+        - {x: -18.5374, y: 63.680176}
+        - {x: -40.5374, y: 56.680176}
+        - {x: -123.5374, y: 57.680176}
+        - {x: -157.5374, y: 28.680176}
+        - {x: -157.5374, y: -26.319824}
+        - {x: -147.5374, y: -53.319824}
+        - {x: -16.5374, y: -61.319824}
+        - {x: 26.4626, y: -63.319824}
+        - {x: 86.4626, y: -63.319824}
+        - {x: 136.4626, y: -43.319824}
+        - {x: 158.4626, y: -27.319824}
+        - {x: 158.4626, y: 9.680176}
+        - {x: 142.4626, y: 46.680176}
+    - name: MenuLogoJustScreenFlicker_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6300
+        width: 1676
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143.4626, y: 48.35034}
+        - {x: 68.4626, y: 64.35034}
+        - {x: -42.5374, y: 64.35034}
+        - {x: -119.5374, y: 52.35034}
+        - {x: -143.5374, y: 39.35034}
+        - {x: -157.5374, y: 24.350342}
+        - {x: -157.5374, y: -17.649658}
+        - {x: -146.5374, y: -52.64966}
+        - {x: 26.4626, y: -63.64966}
+        - {x: 104.4626, y: -63.64966}
+        - {x: 135.4626, y: -43.64966}
+        - {x: 158.4626, y: -28.649658}
+        - {x: 158.4626, y: 13.350342}
+    - name: MenuLogoJustScreenFlicker_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5551
+        width: 1676
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.4626, y: 64.04431}
+        - {x: -146.5374, y: 64.04431}
+        - {x: -157.5374, y: 45.04431}
+        - {x: -157.5374, y: -28.955688}
+        - {x: -153.5374, y: -40.95569}
+        - {x: -119.5374, y: -52.95569}
+        - {x: -85.5374, y: -54.95569}
+        - {x: -14.537399, y: -58.95569}
+        - {x: 59.4626, y: -62.95569}
+        - {x: 91.4626, y: -62.95569}
+        - {x: 138.4626, y: -42.95569}
+        - {x: 158.4626, y: -31.955688}
+        - {x: 158.4626, y: 17.044312}
+    - name: MenuLogoJustScreenFlicker_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4711
+        width: 1676
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.4626, y: 64.63092}
+        - {x: -46.5374, y: 64.63092}
+        - {x: -123.5374, y: 51.63092}
+        - {x: -157.5374, y: 25.63092}
+        - {x: -157.5374, y: -30.36908}
+        - {x: -154.5374, y: -41.36908}
+        - {x: -121.5374, y: -60.36908}
+        - {x: -90.5374, y: -63.36908}
+        - {x: 110.4626, y: -63.36908}
+        - {x: 142.4626, y: -48.36908}
+        - {x: 158.4626, y: -29.36908}
+        - {x: 158.4626, y: 27.63092}
+        - {x: 115.4626, y: 61.63092}
+    - name: MenuLogoJustScreenFlicker_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3832
+        width: 1676
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5374, y: 63.885803}
+        - {x: -153.5374, y: 41.885803}
+        - {x: -157.5374, y: 23.885803}
+        - {x: -157.5374, y: -16.114197}
+        - {x: -143.5374, y: -37.114197}
+        - {x: -124.5374, y: -54.114197}
+        - {x: -23.5374, y: -63.114197}
+        - {x: 101.4626, y: -63.114197}
+        - {x: 158.4626, y: -33.114197}
+        - {x: 158.4626, y: 20.885803}
+        - {x: 145.4626, y: 45.885803}
+        - {x: 77.4626, y: 63.885803}
+    - name: MenuLogoJustScreenFlicker_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3032
+        width: 1676
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.4626, y: 64.49213}
+        - {x: -72.5374, y: 64.49213}
+        - {x: -120.5374, y: 55.492126}
+        - {x: -157.5374, y: 25.492126}
+        - {x: -157.5374, y: -21.507874}
+        - {x: -146.5374, y: -51.507874}
+        - {x: -119.5374, y: -53.507874}
+        - {x: -14.537399, y: -61.507874}
+        - {x: 18.4626, y: -62.507874}
+        - {x: 91.4626, y: -62.507874}
+        - {x: 142.4626, y: -51.507874}
+        - {x: 158.4626, y: -16.507874}
+        - {x: 158.4626, y: 24.492126}
+        - {x: 142.4626, y: 46.492126}
+    - name: MenuLogoJustScreenFlicker_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2224
+        width: 1676
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5374, y: 63.594482}
+        - {x: -121.5374, y: 57.594482}
+        - {x: -152.5374, y: 37.594482}
+        - {x: -157.5374, y: 23.594482}
+        - {x: -157.5374, y: -31.405518}
+        - {x: -122.5374, y: -62.405518}
+        - {x: -94.5374, y: -63.405518}
+        - {x: 121.4626, y: -63.405518}
+        - {x: 158.4626, y: -37.405518}
+        - {x: 158.4626, y: 28.594482}
+        - {x: 115.4626, y: 63.594482}
+    - name: MenuLogoJustScreenFlicker_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1416
+        width: 1676
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.4626, y: 63.69684}
+        - {x: -24.5374, y: 63.69684}
+        - {x: -122.5374, y: 49.69684}
+        - {x: -150.5374, y: 35.69684}
+        - {x: -157.5374, y: 15.696838}
+        - {x: -157.5374, y: -30.303162}
+        - {x: -145.5374, y: -51.30316}
+        - {x: -73.5374, y: -63.30316}
+        - {x: 105.4626, y: -63.30316}
+        - {x: 146.4626, y: -44.30316}
+        - {x: 158.4626, y: -21.303162}
+        - {x: 158.4626, y: 26.696838}
+    - name: MenuLogoJustScreenFlicker_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 375
+        width: 1676
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.4626, y: 64.49705}
+        - {x: -34.5374, y: 64.49705}
+        - {x: -119.5374, y: 50.497047}
+        - {x: -142.5374, y: 39.497047}
+        - {x: -157.5374, y: 26.497047}
+        - {x: -157.5374, y: -32.502953}
+        - {x: -154.5374, y: -42.502953}
+        - {x: -120.5374, y: -54.502953}
+        - {x: -41.5374, y: -63.502953}
+        - {x: 123.4626, y: -63.502953}
+        - {x: 149.4626, y: -56.502953}
+        - {x: 158.4626, y: -31.502953}
+        - {x: 158.4626, y: 22.497047}
+        - {x: 121.4626, y: 56.497047}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

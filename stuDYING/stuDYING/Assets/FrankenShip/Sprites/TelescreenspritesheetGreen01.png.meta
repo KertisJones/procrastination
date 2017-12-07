@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 4a5867794ee481e4ab29fa85d9bf9f30
+timeCreated: 1457549455
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TelescreenspritesheetGreen01_0
+    21300002: TelescreenspritesheetGreen01_1
+    21300004: TelescreenspritesheetGreen01_2
+    21300006: TelescreenspritesheetGreen01_3
+    21300008: TelescreenspritesheetGreen01_4
+    21300010: TelescreenspritesheetGreen01_5
+    21300012: TelescreenspritesheetGreen01_6
+    21300014: TelescreenspritesheetGreen01_7
+    21300016: TelescreenspritesheetGreen01_8
+    21300018: TelescreenspritesheetGreen01_9
+    21300020: TelescreenspritesheetGreen01_10
+    21300022: TelescreenspritesheetGreen01_11
+    21300024: TelescreenspritesheetGreen01_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TelescreenspritesheetGreen01_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: 232}
+        - {x: 282, y: 234}
+        - {x: 262, y: 234}
+        - {x: 262, y: 313}
+        - {x: 261, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 262, y: -314}
+        - {x: 262, y: -232}
+        - {x: 282, y: -232}
+        - {x: 284, y: -230}
+    - name: TelescreenspritesheetGreen01_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: -231}
+        - {x: 284, y: 233}
+        - {x: 283, y: 234}
+        - {x: 262, y: 234}
+        - {x: 262, y: 313}
+        - {x: 261, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 262, y: -314}
+        - {x: 262, y: -232}
+        - {x: 283, y: -232}
+    - name: TelescreenspritesheetGreen01_2
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: -231}
+        - {x: 284, y: 232}
+        - {x: 282, y: 234}
+        - {x: 262, y: 234}
+        - {x: 262, y: 313}
+        - {x: 261, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 262, y: -314}
+        - {x: 262, y: -232}
+        - {x: 283, y: -232}
+    - name: TelescreenspritesheetGreen01_3
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: 233}
+        - {x: 283, y: 234}
+        - {x: 263, y: 234}
+        - {x: 263, y: 313}
+        - {x: 262, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 263, y: -314}
+        - {x: 263, y: -232}
+        - {x: 283, y: -232}
+        - {x: 284, y: -231}
+    - name: TelescreenspritesheetGreen01_4
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: 232}
+        - {x: 282, y: 234}
+        - {x: 262, y: 234}
+        - {x: 262, y: 313}
+        - {x: 261, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 262, y: -314}
+        - {x: 262, y: -232}
+        - {x: 282, y: -232}
+        - {x: 284, y: -230}
+    - name: TelescreenspritesheetGreen01_5
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: 233}
+        - {x: 283, y: 234}
+        - {x: 263, y: 234}
+        - {x: 263, y: 313}
+        - {x: 262, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 263, y: -314}
+        - {x: 263, y: -232}
+        - {x: 283, y: -232}
+        - {x: 284, y: -231}
+    - name: TelescreenspritesheetGreen01_6
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: -230}
+        - {x: 284, y: 234}
+        - {x: 283, y: 235}
+        - {x: 263, y: 235}
+        - {x: 263, y: 314}
+        - {x: -264, y: 314}
+        - {x: -264, y: 214}
+        - {x: -284, y: 214}
+        - {x: -284, y: -250}
+        - {x: -264, y: -250}
+        - {x: -264, y: -313}
+        - {x: -263, y: -314}
+        - {x: 261, y: -314}
+        - {x: 263, y: -312}
+        - {x: 263, y: -231}
+        - {x: 283, y: -231}
+    - name: TelescreenspritesheetGreen01_7
+      rect:
+        serializedVersion: 2
+        x: 4444
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: 233}
+        - {x: 283, y: 234}
+        - {x: 263, y: 234}
+        - {x: 263, y: 313}
+        - {x: 262, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 263, y: -314}
+        - {x: 263, y: -232}
+        - {x: 283, y: -232}
+        - {x: 284, y: -231}
+    - name: TelescreenspritesheetGreen01_8
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: -231}
+        - {x: 284, y: 232}
+        - {x: 282, y: 234}
+        - {x: 262, y: 234}
+        - {x: 262, y: 313}
+        - {x: 261, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 262, y: -314}
+        - {x: 262, y: -232}
+        - {x: 283, y: -232}
+    - name: TelescreenspritesheetGreen01_9
+      rect:
+        serializedVersion: 2
+        x: 5697
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: -229}
+        - {x: 284, y: 233}
+        - {x: 282, y: 235}
+        - {x: 262, y: 235}
+        - {x: 262, y: 314}
+        - {x: -264, y: 314}
+        - {x: -264, y: 214}
+        - {x: -284, y: 214}
+        - {x: -284, y: -250}
+        - {x: -264, y: -250}
+        - {x: -264, y: -313}
+        - {x: -263, y: -314}
+        - {x: 261, y: -314}
+        - {x: 262, y: -313}
+        - {x: 262, y: -231}
+        - {x: 282, y: -231}
+    - name: TelescreenspritesheetGreen01_10
+      rect:
+        serializedVersion: 2
+        x: 6327
+        y: 29
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: 233}
+        - {x: 264, y: 233}
+        - {x: 264, y: 312}
+        - {x: 262, y: 314}
+        - {x: -261, y: 314}
+        - {x: -263, y: 312}
+        - {x: -263, y: 212}
+        - {x: -283, y: 212}
+        - {x: -284, y: 211}
+        - {x: -284, y: -251}
+        - {x: -283, y: -252}
+        - {x: -263, y: -252}
+        - {x: -263, y: -314}
+        - {x: 264, y: -314}
+        - {x: 264, y: -233}
+        - {x: 284, y: -233}
+    - name: TelescreenspritesheetGreen01_11
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: 233}
+        - {x: 283, y: 234}
+        - {x: 263, y: 234}
+        - {x: 263, y: 313}
+        - {x: 262, y: 314}
+        - {x: -262, y: 314}
+        - {x: -263, y: 313}
+        - {x: -263, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -263, y: -251}
+        - {x: -263, y: -314}
+        - {x: 263, y: -314}
+        - {x: 263, y: -232}
+        - {x: 283, y: -232}
+        - {x: 284, y: -231}
+    - name: TelescreenspritesheetGreen01_12
+      rect:
+        serializedVersion: 2
+        x: 7592
+        y: 28
+        width: 568
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 284, y: -231}
+        - {x: 284, y: 233}
+        - {x: 283, y: 234}
+        - {x: 262, y: 234}
+        - {x: 262, y: 313}
+        - {x: 261, y: 314}
+        - {x: -263, y: 314}
+        - {x: -264, y: 313}
+        - {x: -264, y: 213}
+        - {x: -284, y: 213}
+        - {x: -284, y: -251}
+        - {x: -264, y: -251}
+        - {x: -264, y: -314}
+        - {x: 262, y: -314}
+        - {x: 262, y: -232}
+        - {x: 283, y: -232}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

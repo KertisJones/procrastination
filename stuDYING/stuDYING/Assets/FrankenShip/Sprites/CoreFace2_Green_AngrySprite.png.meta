@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 1a0f03856045087428bf2a524012b1fb
+timeCreated: 1457594682
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CoreFace2_Green_AngrySprite(1)_0
+    21300002: CoreFace2_Green_AngrySprite(1)_1
+    21300004: CoreFace2_Green_AngrySprite(1)_2
+    21300006: CoreFace2_Green_AngrySprite(1)_3
+    21300008: CoreFace2_Green_AngrySprite(1)_4
+    21300010: CoreFace2_Green_AngrySprite(1)_5
+    21300012: CoreFace2_Green_AngrySprite(1)_6
+    21300014: CoreFace2_Green_AngrySprite(1)_7
+    21300016: CoreFace2_Green_AngrySprite(1)_8
+    21300018: CoreFace2_Green_AngrySprite(1)_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CoreFace2_Green_AngrySprite(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 119, y: -62}
+        - {x: 115, y: -65}
+        - {x: 105, y: -72}
+        - {x: 97, y: -43}
+        - {x: 117, y: -30}
+        - {x: 125, y: -11}
+        - {x: 127, y: 122}
+        - {x: 84, y: 128}
+        - {x: -71, y: 128}
+        - {x: -119, y: 124}
+        - {x: -124, y: 121}
+        - {x: -127, y: -19}
+        - {x: -93, y: -49}
+        - {x: -128, y: -62}
+        - {x: -128, y: -128}
+        - {x: -57, y: -128}
+        - {x: -49, y: -127}
+        - {x: 52, y: -122}
+        - {x: 73, y: -108}
+    - name: CoreFace2_Green_AngrySprite(1)_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -107}
+        - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 121, y: -55}
+        - {x: 104, y: -61}
+        - {x: 108, y: -39}
+        - {x: 125, y: -18}
+        - {x: 124, y: 120}
+        - {x: 122, y: 122}
+        - {x: 63, y: 128}
+        - {x: -60, y: 128}
+        - {x: -120, y: 124}
+        - {x: -124, y: 121}
+        - {x: -127, y: -19}
+        - {x: -93, y: -49}
+        - {x: -128, y: -62}
+        - {x: -128, y: -128}
+        - {x: -87, y: -128}
+        - {x: -87, y: -115}
+        - {x: -48, y: -121}
+        - {x: 52, y: -122}
+    - name: CoreFace2_Green_AngrySprite(1)_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -107}
+        - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 121, y: -55}
+        - {x: 104, y: -61}
+        - {x: 108, y: -39}
+        - {x: 125, y: -18}
+        - {x: 124, y: 120}
+        - {x: 122, y: 122}
+        - {x: 63, y: 128}
+        - {x: -61, y: 128}
+        - {x: -120, y: 124}
+        - {x: -124, y: 121}
+        - {x: -127, y: -19}
+        - {x: -93, y: -49}
+        - {x: -128, y: -62}
+        - {x: -128, y: -128}
+        - {x: -87, y: -128}
+        - {x: -87, y: -115}
+        - {x: -48, y: -121}
+        - {x: 52, y: -122}
+    - name: CoreFace2_Green_AngrySprite(1)_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -107}
+        - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 121, y: -55}
+        - {x: 104, y: -61}
+        - {x: 125, y: -18}
+        - {x: 128, y: 38}
+        - {x: 126, y: 121}
+        - {x: 122, y: 122}
+        - {x: 63, y: 128}
+        - {x: -60, y: 128}
+        - {x: -120, y: 124}
+        - {x: -124, y: 121}
+        - {x: -127, y: -19}
+        - {x: -93, y: -49}
+        - {x: -128, y: -62}
+        - {x: -128, y: -128}
+        - {x: -87, y: -128}
+        - {x: -87, y: -115}
+        - {x: -48, y: -121}
+        - {x: 52, y: -122}
+    - name: CoreFace2_Green_AngrySprite(1)_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 121, y: -55}
+        - {x: 104, y: -61}
+        - {x: 108, y: -39}
+        - {x: 125, y: -18}
+        - {x: 128, y: 38}
+        - {x: 126, y: 121}
+        - {x: 122, y: 122}
+        - {x: 63, y: 128}
+        - {x: -60, y: 128}
+        - {x: -120, y: 124}
+        - {x: -124, y: 121}
+        - {x: -127, y: -19}
+        - {x: -93, y: -49}
+        - {x: -128, y: -62}
+        - {x: -128, y: -128}
+        - {x: -56, y: -128}
+        - {x: -49, y: -127}
+        - {x: 52, y: -122}
+        - {x: 73, y: -107}
+    - name: CoreFace2_Green_AngrySprite(1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 118, y: -60}
+        - {x: 92, y: -47}
+        - {x: 119, y: -31}
+        - {x: 127, y: 1}
+        - {x: 127, y: 122}
+        - {x: 84, y: 128}
+        - {x: 35, y: 128}
+        - {x: -34, y: 124}
+        - {x: -43, y: 128}
+        - {x: -81, y: 128}
+        - {x: -119, y: 123}
+        - {x: -123, y: 120}
+        - {x: -127, y: -19}
+        - {x: -94, y: -48}
+        - {x: -128, y: -61}
+        - {x: -128, y: -128}
+        - {x: -57, y: -128}
+        - {x: -49, y: -127}
+        - {x: 52, y: -122}
+        - {x: 73, y: -108}
+    - name: CoreFace2_Green_AngrySprite(1)_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -108}
+        - {x: 82, y: -93}
+        - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 118, y: -60}
+        - {x: 92, y: -47}
+        - {x: 119, y: -31}
+        - {x: 127, y: 1}
+        - {x: 127, y: 122}
+        - {x: 91, y: 128}
+        - {x: 47, y: 128}
+        - {x: 45, y: 126}
+        - {x: 2, y: 128}
+        - {x: -85, y: 128}
+        - {x: -128, y: 124}
+        - {x: -128, y: 67}
+        - {x: -127, y: -19}
+        - {x: -94, y: -48}
+        - {x: -128, y: -61}
+        - {x: -128, y: -128}
+        - {x: -87, y: -128}
+        - {x: -87, y: -116}
+        - {x: -48, y: -121}
+        - {x: 52, y: -122}
+    - name: CoreFace2_Green_AngrySprite(1)_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 118, y: -60}
+        - {x: 92, y: -47}
+        - {x: 119, y: -31}
+        - {x: 127, y: 1}
+        - {x: 127, y: 122}
+        - {x: 84, y: 128}
+        - {x: 35, y: 128}
+        - {x: -34, y: 124}
+        - {x: -43, y: 128}
+        - {x: -81, y: 128}
+        - {x: -119, y: 123}
+        - {x: -123, y: 120}
+        - {x: -127, y: -19}
+        - {x: -94, y: -48}
+        - {x: -128, y: -61}
+        - {x: -128, y: -128}
+        - {x: -57, y: -128}
+        - {x: -49, y: -127}
+        - {x: 52, y: -122}
+        - {x: 73, y: -108}
+    - name: CoreFace2_Green_AngrySprite(1)_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -108}
+        - {x: 82, y: -93}
+        - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 118, y: -60}
+        - {x: 92, y: -47}
+        - {x: 119, y: -31}
+        - {x: 127, y: 1}
+        - {x: 127, y: 122}
+        - {x: 91, y: 128}
+        - {x: 47, y: 128}
+        - {x: 45, y: 126}
+        - {x: 2, y: 128}
+        - {x: -85, y: 128}
+        - {x: -128, y: 124}
+        - {x: -128, y: 67}
+        - {x: -127, y: -19}
+        - {x: -94, y: -48}
+        - {x: -128, y: -61}
+        - {x: -128, y: -128}
+        - {x: -87, y: -128}
+        - {x: -87, y: -116}
+        - {x: -48, y: -121}
+        - {x: 52, y: -122}
+    - name: CoreFace2_Green_AngrySprite(1)_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -108}
+        - {x: 82, y: -93}
+        - {x: 88, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -63}
+        - {x: 118, y: -60}
+        - {x: 92, y: -47}
+        - {x: 119, y: -31}
+        - {x: 127, y: 1}
+        - {x: 127, y: 122}
+        - {x: 91, y: 128}
+        - {x: 47, y: 128}
+        - {x: 45, y: 126}
+        - {x: 2, y: 128}
+        - {x: -85, y: 128}
+        - {x: -128, y: 124}
+        - {x: -128, y: 67}
+        - {x: -127, y: -19}
+        - {x: -94, y: -48}
+        - {x: -128, y: -61}
+        - {x: -128, y: -128}
+        - {x: -87, y: -128}
+        - {x: -87, y: -116}
+        - {x: -48, y: -121}
+        - {x: 52, y: -122}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

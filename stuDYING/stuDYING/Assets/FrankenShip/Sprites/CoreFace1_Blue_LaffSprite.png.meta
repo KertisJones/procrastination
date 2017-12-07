@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: f24e7c5ddb11b744b8dc1f4ffdd4504b
+timeCreated: 1455934964
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CoreFace1_Blue_LaffSprite_0
+    21300002: CoreFace1_Blue_LaffSprite_1
+    21300004: CoreFace1_Blue_LaffSprite_2
+    21300006: CoreFace1_Blue_LaffSprite_3
+    21300008: CoreFace1_Blue_LaffSprite_4
+    21300010: CoreFace1_Blue_LaffSprite_5
+    21300012: CoreFace1_Blue_LaffSprite_6
+    21300014: CoreFace1_Blue_LaffSprite_7
+    21300016: CoreFace1_Blue_LaffSprite_8
+    21300018: CoreFace1_Blue_LaffSprite_9
+    21300020: CoreFace1_Blue_LaffSprite_10
+    21300022: CoreFace1_Blue_LaffSprite_11
+    21300024: CoreFace1_Blue_LaffSprite_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CoreFace1_Blue_LaffSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -126}
+        - {x: 83, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -36, y: -111}
+        - {x: -10, y: -121}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -126}
+        - {x: 83, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -36, y: -111}
+        - {x: -10, y: -121}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -126}
+        - {x: 83, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -36, y: -111}
+        - {x: -10, y: -121}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -126}
+        - {x: 83, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -36, y: -111}
+        - {x: -10, y: -121}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    - name: CoreFace1_Blue_LaffSprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -128}
+        - {x: 56, y: -82}
+        - {x: 103, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+        - {x: -19, y: 128}
+        - {x: -20, y: 123}
+        - {x: -17, y: 118}
+        - {x: -15, y: 116}
+        - {x: -10, y: 102}
+        - {x: -23, y: 128}
+        - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -100, y: -128}
+        - {x: -47, y: -80}
+        - {x: -41, y: -115}
+        - {x: 28, y: -128}
+      - - {x: -78, y: -33}
+        - {x: -78, y: -36}
+        - {x: -75, y: -38}
+        - {x: -73, y: -38}
+        - {x: -68, y: -34}
+        - {x: -68, y: -30}
+        - {x: -70, y: -28}
+        - {x: -75, y: -28}
+      - - {x: 58, y: -24}
+        - {x: 58, y: -27}
+        - {x: 61, y: -31}
+        - {x: 64, y: -30}
+        - {x: 65, y: -26}
+        - {x: 62, y: -22}
+        - {x: 60, y: -22}
+      - - {x: -61, y: -27}
+        - {x: -58, y: -26}
+        - {x: -58, y: -23}
+        - {x: -61, y: -22}
+        - {x: -63, y: -24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

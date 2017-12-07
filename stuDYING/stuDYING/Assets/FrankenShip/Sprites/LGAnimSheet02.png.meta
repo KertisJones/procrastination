@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: d4044bf6e77997b4493b662d559dd621
+timeCreated: 1461356216
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LGAnimSheet02_0
+    21300002: LGAnimSheet02_1
+    21300004: LGAnimSheet02_2
+    21300006: LGAnimSheet02_3
+    21300008: LGAnimSheet02_4
+    21300010: LGAnimSheet02_5
+    21300012: LGAnimSheet02_6
+    21300014: LGAnimSheet02_7
+    21300016: LGAnimSheet02_8
+    21300018: LGAnimSheet02_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LGAnimSheet02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 212.75}
+        - {x: -55, y: 187.75}
+        - {x: -55, y: -17.25}
+        - {x: 55, y: -17.25}
+        - {x: 55, y: 146.75}
+        - {x: 35, y: 212.75}
+    - name: LGAnimSheet02_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 682
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 194.75}
+        - {x: -55, y: 153.75}
+        - {x: -55, y: -17.25}
+        - {x: 55, y: -17.25}
+        - {x: 55, y: 130.75}
+        - {x: 32, y: 194.75}
+    - name: LGAnimSheet02_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 682
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 174.75}
+        - {x: -55, y: 153.75}
+        - {x: -55, y: -9.25}
+        - {x: -52, y: -17.25}
+        - {x: 55, y: -17.25}
+        - {x: 55, y: 150.75}
+        - {x: 36, y: 174.75}
+    - name: LGAnimSheet02_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 181.75}
+        - {x: -40, y: 181.75}
+        - {x: -55, y: 107.75}
+        - {x: -55, y: -15.25}
+        - {x: 55, y: -15.25}
+        - {x: 55, y: 112.75}
+        - {x: 33, y: 178.75}
+    - name: LGAnimSheet02_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 452
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 186.75}
+        - {x: -55, y: 153.75}
+        - {x: -55, y: -15.25}
+        - {x: 55, y: -15.25}
+        - {x: 55, y: 119.75}
+        - {x: 39, y: 186.75}
+    - name: LGAnimSheet02_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 452
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 191.75}
+        - {x: -31, y: 191.75}
+        - {x: -55, y: 97.75}
+        - {x: -55, y: -4.25}
+        - {x: -50, y: -15.25}
+        - {x: 55, y: -15.25}
+        - {x: 55, y: 117.75}
+        - {x: 36, y: 190.75}
+    - name: LGAnimSheet02_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -17.25}
+        - {x: -7, y: -14.25}
+        - {x: -24, y: -14.25}
+        - {x: -25, y: -17.25}
+      - - {x: 21, y: -17.25}
+        - {x: 20, y: -14.25}
+        - {x: 11, y: -14.25}
+        - {x: 10, y: -17.25}
+      - - {x: -41, y: 198.75}
+        - {x: -55, y: 121.75}
+        - {x: -55, y: -5.25}
+        - {x: -44, y: -13.25}
+        - {x: 55, y: -13.25}
+        - {x: 55, y: 163.75}
+        - {x: 33, y: 198.75}
+    - name: LGAnimSheet02_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 222
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 203.75}
+        - {x: -28, y: 199.75}
+        - {x: -55, y: 155.75}
+        - {x: -55, y: -13.25}
+        - {x: 55, y: -13.25}
+        - {x: 55, y: 160.75}
+        - {x: 49, y: 203.75}
+    - name: LGAnimSheet02_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 222
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 208.75}
+        - {x: -55, y: 126.75}
+        - {x: -55, y: -13.25}
+        - {x: 55, y: -13.25}
+        - {x: 55, y: 167.75}
+        - {x: 34, y: 208.75}
+    - name: LGAnimSheet02_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 110
+        height: 230
+      alignment: 9
+      pivot: {x: 0.5, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -17.25}
+        - {x: 55, y: -17.25}
+        - {x: 55, y: 141.75}
+        - {x: 39, y: 207.75}
+        - {x: -34, y: 207.75}
+        - {x: -55, y: 118.75}
+      - - {x: -34, y: 212.75}
+        - {x: -34, y: 210.75}
+        - {x: -32, y: 208.75}
+        - {x: -23, y: 208.75}
+        - {x: -18, y: 210.75}
+        - {x: -18, y: 212.75}
+      - - {x: 18, y: 212.75}
+        - {x: 19, y: 208.75}
+        - {x: 34, y: 208.75}
+        - {x: 36, y: 211.75}
+        - {x: 36, y: 212.75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
